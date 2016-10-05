@@ -1,0 +1,10 @@
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\StudentDLL.dll.config
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\StudentDLL.dll
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\StudentDLL.pdb
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\EntityFramework.dll
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\EntityFramework.xml
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\obj\Debug\StudentDLL.csprojResolveAssemblyReference.cache
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\obj\Debug\StudentDLL.dll
+C:\Users\jamdmasud\documents\visual studio 2015\Projects\StudentInformationApp\StudentDLL\obj\Debug\StudentDLL.pdb
